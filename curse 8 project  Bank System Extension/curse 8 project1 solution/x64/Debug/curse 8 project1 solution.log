@@ -1,9 +1,0 @@
-﻿  curse 8 project1 solution.cpp
-C:\Users\Moham_5fh8amd\OneDrive\ProgramingAd\curse 8\curse 8 project 1 solution\curse 8 project1 solution\curse 8 project1 solution.cpp(67,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
-C:\Users\Moham_5fh8amd\OneDrive\ProgramingAd\curse 8\curse 8 project 1 solution\curse 8 project1 solution\curse 8 project1 solution.cpp(1434,13): warning C4129: 'M': unrecognized character escape sequence
-C:\Users\Moham_5fh8amd\OneDrive\ProgramingAd\curse 8\curse 8 project 1 solution\curse 8 project1 solution\curse 8 project1 solution.cpp(887,1): warning C4715: 'DeleteUserByUserName': not all control paths return a value
-C:\Users\Moham_5fh8amd\OneDrive\ProgramingAd\curse 8\curse 8 project 1 solution\curse 8 project1 solution\curse 8 project1 solution.cpp(969,1): warning C4715: 'UpdateUserByUserName': not all control paths return a value
-C:\Users\Moham_5fh8amd\OneDrive\ProgramingAd\curse 8\curse 8 project 1 solution\curse 8 project1 solution\curse 8 project1 solution.cpp(1000,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
-C:\Users\Moham_5fh8amd\OneDrive\ProgramingAd\curse 8\curse 8 project 1 solution\curse 8 project1 solution\curse 8 project1 solution.cpp(929,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
-C:\Users\Moham_5fh8amd\OneDrive\ProgramingAd\curse 8\curse 8 project 1 solution\curse 8 project1 solution\curse 8 project1 solution.cpp(843,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
-  curse 8 project1 solution.vcxproj -> C:\Users\Moham_5fh8amd\OneDrive\ProgramingAd\curse 8\curse 8 project 1 solution\x64\Debug\curse 8 project1 solution.exe
